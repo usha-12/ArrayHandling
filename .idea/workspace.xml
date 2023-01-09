@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84f0d644-36ad-4d77-a6b5-ebbc588a9861" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/ArrayHandling/FrequencyOfEachElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/ArrayHandling/SmallestElementArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
