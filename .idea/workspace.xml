@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84f0d644-36ad-4d77-a6b5-ebbc588a9861" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/ArrayHandling/SmallestElementArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/ArrayHandling/EvenPositionArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     "last_opened_file_path": "C:/Users/User/Desktop/210_RPF"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FrequencyOfEachElement">
+  <component name="RunManager" selected="Application.EvenPositionArray">
     <configuration name="ComandLineArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.brideglabz.ArrayHandling.ComandLineArgument" />
       <module name="ArrayHandling" />
@@ -56,6 +56,19 @@
       <option name="MAIN_CLASS_NAME" value="com.brideglabz.ArrayHandling.CommandLineArgument" />
       <module name="ArrayHandling" />
       <option name="PROGRAM_PARAMETERS" value="10 20 40" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brideglabz.ArrayHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenPositionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brideglabz.ArrayHandling.EvenPositionArray" />
+      <module name="ArrayHandling" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.brideglabz.ArrayHandling.*" />
@@ -93,6 +106,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.EvenPositionArray" />
       <item itemvalue="Application.FrequencyOfEachElement" />
       <item itemvalue="Application.PrintTheElements" />
       <item itemvalue="Application.ComandLineArgument" />
@@ -100,6 +114,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvenPositionArray" />
         <item itemvalue="Application.FrequencyOfEachElement" />
         <item itemvalue="Application.PrintTheElements" />
         <item itemvalue="Application.CommandLineArgument" />
