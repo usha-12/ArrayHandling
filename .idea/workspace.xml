@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84f0d644-36ad-4d77-a6b5-ebbc588a9861" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayHandling.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/ArrayHandling/PrintTheElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/ArrayHandling/FrequencyOfEachElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +38,7 @@
     "last_opened_file_path": "C:/Users/User/Desktop/210_RPF"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrintTheElements">
+  <component name="RunManager" selected="Application.FrequencyOfEachElement">
     <configuration name="ComandLineArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.brideglabz.ArrayHandling.ComandLineArgument" />
       <module name="ArrayHandling" />
@@ -72,6 +66,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FrequencyOfEachElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.brideglabz.ArrayHandling.FrequencyOfEachElement" />
+      <module name="ArrayHandling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brideglabz.ArrayHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintTheElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.brideglabz.ArrayHandling.PrintTheElements" />
       <module name="ArrayHandling" />
@@ -86,12 +93,14 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.FrequencyOfEachElement" />
       <item itemvalue="Application.PrintTheElements" />
       <item itemvalue="Application.ComandLineArgument" />
       <item itemvalue="Application.CommandLineArgument" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrequencyOfEachElement" />
         <item itemvalue="Application.PrintTheElements" />
         <item itemvalue="Application.CommandLineArgument" />
         <item itemvalue="Application.ComandLineArgument" />
