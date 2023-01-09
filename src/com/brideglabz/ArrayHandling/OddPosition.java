@@ -1,4 +1,4 @@
-package com.brideglabz.ArrayHandling;
+package com.brideglabz.arrayhandling;
 
 public class OddPosition {
     public static void checkOddPosition(){
