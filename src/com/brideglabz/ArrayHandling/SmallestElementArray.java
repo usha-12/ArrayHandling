@@ -1,4 +1,4 @@
-package com.brideglabz.ArrayHandling;
+package com.brideglabz.arrayhandling;
 
 import java.util.Scanner;
 
