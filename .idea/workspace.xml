@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84f0d644-36ad-4d77-a6b5-ebbc588a9861" name="Changes" comment="" />
+    <list default="true" id="84f0d644-36ad-4d77-a6b5-ebbc588a9861" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/ArrayHandling/DuplicateElements.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
