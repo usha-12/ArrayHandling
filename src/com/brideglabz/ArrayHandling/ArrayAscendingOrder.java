@@ -24,7 +24,8 @@ public class ArrayAscendingOrder {
             System.out.println(array[i]+" ");
         }
     }
-    public static void main(String[] args) {
+   
+   public static void main(String[] args) {
         System.out.println("Welcome to the  array in ascending order program");
         printAscendingOrder();
     }
