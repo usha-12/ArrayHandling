@@ -20,7 +20,7 @@ public class SmallestElementArray {
     }
     public static void main(String[] args) {
         System.out.println("Welcome to the  smallest element in array program");
-        checkSmallestElement();
+       checkSmallestElement();
     }
 }
 //Java Program to print the smallest element in an array
