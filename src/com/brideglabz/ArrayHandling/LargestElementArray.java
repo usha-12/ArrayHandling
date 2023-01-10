@@ -15,7 +15,7 @@ public class LargestElementArray {
         for (int i = 1; i < 4; i++) {
             if (array[i] > max) {
                 max = array[i];
-            }
+           }
         }
         System.out.println("Maximum Element :" + max);
     }
