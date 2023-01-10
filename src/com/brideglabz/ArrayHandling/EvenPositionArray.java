@@ -15,7 +15,6 @@ public class EvenPositionArray {
                 System.out.println("Index =" + i);
                 System.out.println("Value =" + array[i]);
             }
-
         }
     }
     public static void main(String[] args) {
