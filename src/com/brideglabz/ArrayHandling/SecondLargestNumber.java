@@ -18,7 +18,7 @@ public class SecondLargestNumber {
     }
     public static void main(String[] args) {
         System.out.println("Welcome to the  2nd Largest Number program");
-        secondLargestNumber();
+       secondLargestNumber();
     }
 }
 //10) Find 2nd Largest Number in an Array
