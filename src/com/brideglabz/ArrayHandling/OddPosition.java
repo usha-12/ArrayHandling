@@ -8,7 +8,7 @@ public class OddPosition {
             if (i%2 != 0){
                 System.out.println("index :"+i);
                 System.out.println("value : "+array[i]);
-            }
+           }
         }
     }
     public static void main(String[] args) {
