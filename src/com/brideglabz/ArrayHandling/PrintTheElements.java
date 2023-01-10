@@ -14,7 +14,7 @@ public class PrintTheElements {
     }
     public static void main(String[] args) {
         System.out.println("print the elements of an array");
-        printElement();
+       printElement();
     }
 }
 //1) Java Program to print the elements of an array
