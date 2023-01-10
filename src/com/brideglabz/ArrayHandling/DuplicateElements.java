@@ -18,6 +18,7 @@ public class DuplicateElements {
             }
         }
     }
+    
     public static void main(String[] args) {
         System.out.println("Welcome to the duplicate elements in array program");
         checkDuplicateElements();
